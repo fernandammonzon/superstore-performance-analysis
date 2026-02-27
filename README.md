@@ -58,6 +58,16 @@ The most critical finding was that despite overall positive growth, profitabilit
 - Business-focused dashboard design
 - Data storytelling for executive reporting
 
+## Dashboard Preview
+
+### Executive Overview
+![Overview](screenshots/overview.png)
+
+### Product & Segment Deep Dive
+![Deep Dive](screenshots/deep_dive.png)
+
+
+
 ## Business Impact 
 This analysis supports: 
 - Product portfolio optimization
